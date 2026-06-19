@@ -67,9 +67,3 @@ Recommended TED Talks:
 * Chimamanda Ngozi Adichie
 * Nirmalya Kumar
 
-## Future Improvements
-
-* Streamlit Web Application
-* Deployment on Render
-* Improved Recommendation Ranking
-* User Interface Enhancements
